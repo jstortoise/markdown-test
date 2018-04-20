@@ -13,12 +13,14 @@ Executive Concerns within this industry include:
 * The shifting focus to e-commerce
 * Shifting sources of influence
 * Lower barriers to entry creating a competitive threat to the established players
-OBJECTIVES OF THE CLIENT + CHALLENGES
+
+## OBJECTIVES OF THE CLIENT + CHALLENGES
  In an industry that's changing to meet the meets of the new consumers who shop in new channels, L'Oreal's strategy is to identify change-makers, candidates with the right culture fit and skillsets to accelerate internal innovation through diversity and inclusivity.
 Key challenge: how to identify the right candidates amidst: 
 * High-volume of applicants (labor intensive to process and large time requirements to filter)
 * Human bias in filtering
-OUR SOLUTION: A PEOPLE SCIENCE RECRUITMENT FUNNEL
+
+## OUR SOLUTION: A PEOPLE SCIENCE RECRUITMENT FUNNEL
 
 We built a predictive model based on the current employees in L'Oréal’s MT program. Based on this model, we invited L'Oréal’s candidates to apply for our digital interview.
 
