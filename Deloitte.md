@@ -33,8 +33,11 @@ What were those shortcomings?
 * Turnaround time took too long, turning off top candidates
 
 ## OUR SOLUTION: SOFT SKILLS ANALYSIS FOR PREDICTION OF BEST-FIT TALENTS
+
 (1) Seedlink combines machine learning, neuro-linguistic insight, and natural language processing to accurately detect soft skills.
+
 (2) Our simpler evaluation process is easier to finish and more user-friendly compared to the standard online test, effectively broadening the candidate pool.
+
 (3) Open-ended questions are harder to manipulate.
 
 A total of 1800 candidates were evaluated evenly using both Seedlink’s solution and the company’s standard test. The top-ranking candidates from each of the two methods were then invited to participate in a formal group assessment. 
