@@ -24,8 +24,8 @@ In the intense competition for top talent, Deloitte HR executives were acutely a
 Profile screening → Online Test → Group Assessment → Partner Interview Offer
 What were those shortcomings?
 * Soft skills were difficult to detect
-* Standard online testing was time-consuming and inflexible
-* Structured tests were easy to manipulate  
+	* Standard online testing was time-consuming and inflexible
+	* Structured tests were easy to manipulate  
 * Human bias was sabotaging candidate selection based on objective merit  
 * Turnaround time took too long, turning off top candidates
 
