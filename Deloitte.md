@@ -2,7 +2,7 @@
 
 ## ABOUT THE CLIENT + CHALLENGES OF THE INDUSTRY
 
-“Deloitte” is considered one of the [“Big Four”](https://en.wikipedia.org/wiki/Big_Four_accounting_firms) in professional services networks in the world. The brand has tens of thousands of dedicated professionals in independent firms throughout the world which collaborate to provide audit, consulting, financial advisory, risk management, tax, and related services to select clients.
+“Deloitte” is considered one of the “[Big Four](https://en.wikipedia.org/wiki/Big_Four_accounting_firms)” in professional services networks in the world. The brand has tens of thousands of dedicated professionals in independent firms throughout the world which collaborate to provide audit, consulting, financial advisory, risk management, tax, and related services to select clients.
 
 Key facts & figures:
 * [#11 on 100 Best Companies to Work For (2017)](http://fortune.com/best-companies/deloitte/)
