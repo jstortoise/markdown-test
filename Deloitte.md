@@ -1,6 +1,6 @@
-#Deloitte Uses People Science to Surpass Traditional Recruitment Results
+# Deloitte Uses People Science to Surpass Traditional Recruitment Results
 
-##ABOUT THE CLIENT + CHALLENGES OF THE INDUSTRY
+## ABOUT THE CLIENT + CHALLENGES OF THE INDUSTRY
 
 “Deloitte” is considered one of the “Big Four” in professional services networks in the world. The brand has tens of thousands of dedicated professionals in independent firms throughout the world which collaborate to provide audit, consulting, financial advisory, risk management, tax, and related services to select clients.
 Key facts & figures:
@@ -14,7 +14,7 @@ Executive concerns within this industry include:
 * Increased competition from the mushrooming of specialist and disruptor firms   
 * Threats from unprecedented business models arising from the speed of development in digital technologies
 
-##CLIENT CHALLENGES
+## CLIENT CHALLENGES
 
 Outdated target candidate profiling models did not reflect recent changes in hiring needs and talent supply.  
 
@@ -29,7 +29,7 @@ What were those shortcomings?
 * Human bias was sabotaging candidate selection based on objective merit  
 * Turnaround time took too long, turning off top candidates
 
-##OUR SOLUTION: SOFT SKILLS ANALYSIS FOR PREDICTION OF BEST-FIT TALENTS
+## OUR SOLUTION: SOFT SKILLS ANALYSIS FOR PREDICTION OF BEST-FIT TALENTS
 (1) Seedlink combines machine learning, neuro-linguistic insight, and natural language processing to accurately detect soft skills.
 (2) Our simpler evaluation process is easier to finish and more user-friendly compared to the standard online test, effectively broadening the candidate pool.
 (3) Open-ended questions are harder to manipulate.
